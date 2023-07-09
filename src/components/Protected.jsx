@@ -13,7 +13,7 @@ const Protected = ({ children }) => {
     const delay = setTimeout(() => {
       setIsLoggedIn(user !== null);
       setIsLoading(false);
-    }, 2500);
+    }, 4000);
 
     return () => clearTimeout(delay); // Cleanup the timeout on component unmount
   }, []);
