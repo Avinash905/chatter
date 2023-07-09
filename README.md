@@ -3,6 +3,7 @@
 👉[Click here](https://chatter-main.vercel.app/) to check out the app.
 
 <h3>Description :</h3>
+
 - Users can create an account and securely log in to the Chatter web app.
 - Users have the ability to register for a new account by providing necessary information like username, email, and password.
 - Once logged in, users can create and publish posts, which includes text.
