@@ -33,9 +33,6 @@ const Sidebar = () => {
       </Link>
 
       <hr className="border border-blue-200 mt-2 w-full" />
-      <button className="text-blue-500 font-medium rounded text-sm px-3 py-1 text-center border-2 border-blue-500 hover:bg-blue-500 hover:text-white">
-        ALL USERS
-      </button>
     </aside>
   );
 };
